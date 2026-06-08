@@ -38,7 +38,7 @@
 python
 class Sanskruti:
     name        = "Sanskruti Mahajan"
-    college     = "SGGSIE&T Nanded — 3rd Year CS"
+    college     = "SGGSIE&T Nanded — 3rd Year EXTC"
     role        = "AI Agent Builder & Software Developer"
     location    = "Nanded, Maharashtra 🇮🇳"
 
